@@ -5,7 +5,7 @@ We provide the AutoBearing dataset:https://pan.baidu.com/s/13s3qh-3sMo3dX-o0cI0v
 
 # Results on AutoBearing Dataset and SD-saliency-900 Dataset
 We provide saliency maps of our RSDENet and other 11 comparison methods on AutoBearing dataset and SD-saliency-900 dataset:
-https://pan.baidu.com/s/1jTW2wcPqaButIe6cbcCy2g?pwd=g87a
+https://pan.baidu.com/s/1MbmZM29Rq6GK4z0YTzDzMg?pwd=acqv
 
 # Checkpoints
 We also provide checkpoints of our RSDENet trained on AutoBearing dataset and SD-saliency-900 dataset:
